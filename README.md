@@ -36,3 +36,5 @@ This is what I added from my MacBook!!
 
 ## 遠端修改測試
    這行是在 GitHub 網站上加的！
+## About This Project
+This is a testing repository for learning Github.
